@@ -47,7 +47,7 @@ This professional certificate focused on managing identity & access, defining se
 7. Mitigating Security Vulnerabilities on Google Cloud  
 8. Hands-On Labs in Google Cloud for Security Engineers  
 
-📄 [View Certificate]([https://coursera.org/verify/profession/MXT4K2R5BYVA](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA))
+📄 [View Certificate]([https://coursera.org/verify/profession/MXT4K2R5BYVA](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA)
 
 ---
 
