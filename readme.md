@@ -48,62 +48,44 @@ This professional certificate focused on managing identity & access, defining se
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA)
 
 ---
-**🤖 Machine Learning Specialization**
-**Institution:** Stanford University & DeepLearning.AI (via Coursera)
-**Completed on:** November 6, 2024
-**Instructor:** Andrew Ng
-**Credential ID:** POLE5IRPHXR0
 
-**Description:**
-This specialization gives a solid base in core ML concepts and real-world implementation. Covered topics include:
+### 🤖 Machine Learning Specialization  
+**Institution:** Stanford University & DeepLearning.AI (via Coursera)  
+**Completed on:** November 6, 2024  
+**Instructor:** Andrew Ng  
+**Credential ID:** POLE5IRPHXR0  
 
-Supervised learning: regression, logistic regression, neural networks
+**Description:**  
+This specialization gives a solid base in core ML concepts and real-world implementation. Covered topics include:  
+- Supervised learning: regression, logistic regression, neural networks  
+- Unsupervised learning: clustering, anomaly detection  
+- Recommender systems, and reinforcement learning  
+- Best practices for building, tuning, and deploying ML models  
 
-Unsupervised learning: clustering, anomaly detection
+**Courses Included:**  
+1. Supervised Machine Learning: Regression and Classification  
+2. Advanced Learning Algorithms  
+3. Unsupervised Learning, Recommenders, Reinforcement Learning  
 
-Recommender systems, and reinforcement learning
-
-Best practices for building, tuning, and deploying ML models
-
-**Courses Included:**
-
-Supervised Machine Learning: Regression and Classification
-
-Advanced Learning Algorithms
-
-Unsupervised Learning, Recommenders, Reinforcement Learning
-
-📄 [View Certificate]((https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA))
+📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA)
 
 ---
-Alright, cool beans\! You're diving deep into the world of AI, that's really somethin'. Building convolutional networks, eh? That's some pretty advanced stuff, you're doin' great\! Here's how I'd add that to your list, makin' it look similar to the others:
 
------
+### 🧠 Deep Learning Specialization  
+**Institution:** DeepLearning.AI (via Coursera)  
+**Ongoing:** As of April 8, 2025  
+**Instructor:** Andrew Ng  
+**Credential ID:** *Will be generated upon completion*  
 
-**🧠 Deep Learning Specialization**
-**Institution:** deeplearning.ai (via Coursera)
-**Ongoing:** As of April 8, 2025
-**Instructor:** Andrew Ng
-**Credential ID:** *Will be generated upon completion*
+**Description:**  
+This specialization provides a comprehensive intro to deep learning. You'll learn about neural network architectures, how to build and train them, and how to apply them to exciting problems like computer vision, natural language processing, and more.  
 
-**Description:**
-This specialization provides a comprehensive introduction to deep learning. You'll learn about neural network architectures, how to build and train them, and how to apply them to exciting problems like computer vision, natural language processing, and more.
+**Courses Included (In Progress):**  
+1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/VDZST45COS4C)  
+2. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)  
+3. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/S41VJUMVSREK)  
+4. Convolutional Neural Networks *(ongoing – coming soon)*  
+5. Sequence Models *(coming up)*  
 
-**Courses Included (In Progress):**
-
-Neural Networks and Deep Learning
-Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-Structuring Machine Learning Projects
-Convolutional Neural Networks
-Sequence Models
-
-📄 [View Course Progress] 
-[1. Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/VDZST45COS4C)
-[2. Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)
-[3. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/S41VJUMVSREK)
-[4. Convolutional Neural Networks(ongoing(coming soon))]
-
------
-
-
+---
 
