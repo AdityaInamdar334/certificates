@@ -1,4 +1,4 @@
----
+
 
 ## 📜 Certifications
 
@@ -25,7 +25,6 @@ This specialization introduces the basics of programming using Python. It covers
 
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/JWF5NW3SHVGX)
 
----
 
 ### ☁️ Preparing for Google Cloud Certification: Cloud Security Engineer  
 **Institution:** Google Cloud (via Coursera)  
@@ -47,7 +46,6 @@ This professional certificate focused on managing identity & access, defining se
 
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA)
 
----
 
 ### 🤖 Machine Learning Specialization  
 **Institution:** Stanford University & DeepLearning.AI (via Coursera)  
@@ -69,7 +67,7 @@ This specialization gives a solid base in core ML concepts and real-world implem
 
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA)
 
----
+
 
 ### 🧠 Deep Learning Specialization  
 **Institution:** DeepLearning.AI (via Coursera)  
