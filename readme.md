@@ -86,6 +86,5 @@ This specialization provides a comprehensive intro to deep learning. You'll lear
 3. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/S41VJUMVSREK)  
 4. Convolutional Neural Networks *(ongoing – coming soon)*  
 5. Sequence Models *(coming up)*  
-
 ---
 
