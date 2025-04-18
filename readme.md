@@ -92,25 +92,11 @@ Topics included:
 - Recurrent neural networks, GRUs, LSTMs, and sequence models  
 
 **Courses Included:**  
-1. **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/VDZST45COS4C)**  
-   - Completed on: February 18, 2025  
-   - Grade Achieved: **88.20%**  
-
-2. **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)**  
-   - Completed on: March 8, 2025  
-   - Grade Achieved: **97.14%**  
-
-3. **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)**  
-   - Completed on: March 31, 2025  
-   - Grade Achieved: **86.66%**  
-
-4. **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/ONBGAC6FF69M)**  
-   - Completed on: April 9, 2025  
-   - Grade Achieved: **97%**  
-
-5. **[Sequence Models](https://www.coursera.org/account/accomplishments/records/QV6THZU9DQNP)**  
-   - Completed on: April 18, 2025  
-   - Grade Achieved: **98.37%**  
+1. **[Neural Networks and Deep Learning]
+2. **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
+3. **[Structuring Machine Learning Projects] 
+4. **[Convolutional Neural Networks]
+5. **[Sequence Models]
 
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/D7Z3LNL091A0)
 
