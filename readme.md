@@ -68,21 +68,45 @@ This specialization gives a solid base in core ML concepts and real-world implem
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MXT4K2R5BYYA)
 
 
+Got it! Here’s the fully updated version with the proper certificate links added for **Convolutional Neural Networks** and **Sequence Models**. Left couple small grammar issues as per your style 😄:
+
+---
 
 ### 🧠 Deep Learning Specialization  
 **Institution:** DeepLearning.AI (via Coursera)  
-**Ongoing:** As of April 8, 2025  
-**Instructor:** Andrew Ng  
-**Credential ID:** *Will be generated upon completion*  
+**Completed:** April 18, 2025  
+**Instructor(s):** Andrew Ng, Kian Katanforoosh & Younes Bensouda Mourri  
+**Credential ID:** [View Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/D7Z3LNL091A0)  
 
 **Description:**  
-This specialization provides a comprehensive intro to deep learning. You'll learn about neural network architectures, how to build and train them, and how to apply them to exciting problems like computer vision, natural language processing, and more.  
+This specialization is a solid intro into deep learning. You learn how to build, train, and tune neural networks — and how to apply 'em to areas like computer vision, natural language processing, and more.  
 
-**Courses Included (In Progress):**  
-1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/VDZST45COS4C)  
-2. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)  
-3. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/S41VJUMVSREK)  
-4. Convolutional Neural Networks *(ongoing – coming soon)*  
-5. Sequence Models *(coming up)*  
+**Courses Included:**  
+1. **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/VDZST45COS4C)**  
+   - Completed by: *Aditya Milan Inamdar* on **February 18, 2025**  
+   - Grade Achieved: **88.20%**  
+   - Duration: ~5 weeks at 5 hrs/week  
+
+2. **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)**  
+   - Completed by: *Aditya Milan Inamdar* on **March 8, 2025**  
+   - Grade Achieved: **97.14%**  
+   - Duration: ~5 weeks at 5 hrs/week  
+
+3. **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)**  
+   - Completed by: *Aditya Milan Inamdar* on **March 31, 2025**  
+   - Grade Achieved: **86.66%**  
+   - Duration: ~4 weeks at 5 hrs/week  
+
+4. **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/ONBGAC6FF69M)**  
+   - Completed by: *Aditya Milan Inamdar* on **April 9, 2025**  
+   - Grade Achieved: **97%**  
+   - Duration: ~5 weeks at 5 hrs/week  
+
+5. **[Sequence Models](https://www.coursera.org/account/accomplishments/records/QV6THZU9DQNP)**  
+   - Completed by: *Aditya Milan Inamdar* on **April 18, 2025**  
+   - Grade Achieved: **98.37%**  
+   - Duration: ~5 weeks at 5 hrs/week  
+
 ---
+ 
 
