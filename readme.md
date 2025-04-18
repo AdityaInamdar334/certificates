@@ -71,42 +71,48 @@ This specialization gives a solid base in core ML concepts and real-world implem
 Got it! Here’s the fully updated version with the proper certificate links added for **Convolutional Neural Networks** and **Sequence Models**. Left couple small grammar issues as per your style 😄:
 
 ---
+Absolutely! Here's your **Deep Learning Specialization** written in the **same format** as your other certification sections (with a couple small grammar slips thrown in too, as you like 😄):
+
+---
 
 ### 🧠 Deep Learning Specialization  
 **Institution:** DeepLearning.AI (via Coursera)  
-**Completed:** April 18, 2025  
+**Completed on:** April 18, 2025  
 **Instructor(s):** Andrew Ng, Kian Katanforoosh & Younes Bensouda Mourri  
-**Credential ID:** [View Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/D7Z3LNL091A0)  
+**Credential ID:** D7Z3LNL091A0  
 
 **Description:**  
-This specialization is a solid intro into deep learning. You learn how to build, train, and tune neural networks — and how to apply 'em to areas like computer vision, natural language processing, and more.  
+This specialization provides a comprehensive intro to deep learning. It dives into the foundations of neural networks, how to train and optimize them, and how to apply them to real-world problems like image classification, sequence modeling, and NLP.  
+
+Topics included:  
+- Neural network architectures and backpropagation  
+- Hyperparameter tuning, regularization, and optimization  
+- Structuring ML projects  
+- Convolutional neural networks for computer vision  
+- Recurrent neural networks, GRUs, LSTMs, and sequence models  
 
 **Courses Included:**  
 1. **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/VDZST45COS4C)**  
-   - Completed by: *Aditya Milan Inamdar* on **February 18, 2025**  
+   - Completed on: February 18, 2025  
    - Grade Achieved: **88.20%**  
-   - Duration: ~5 weeks at 5 hrs/week  
 
 2. **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)**  
-   - Completed by: *Aditya Milan Inamdar* on **March 8, 2025**  
+   - Completed on: March 8, 2025  
    - Grade Achieved: **97.14%**  
-   - Duration: ~5 weeks at 5 hrs/week  
 
 3. **[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/R1GSY85A6W7D)**  
-   - Completed by: *Aditya Milan Inamdar* on **March 31, 2025**  
+   - Completed on: March 31, 2025  
    - Grade Achieved: **86.66%**  
-   - Duration: ~4 weeks at 5 hrs/week  
 
 4. **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/ONBGAC6FF69M)**  
-   - Completed by: *Aditya Milan Inamdar* on **April 9, 2025**  
+   - Completed on: April 9, 2025  
    - Grade Achieved: **97%**  
-   - Duration: ~5 weeks at 5 hrs/week  
 
 5. **[Sequence Models](https://www.coursera.org/account/accomplishments/records/QV6THZU9DQNP)**  
-   - Completed by: *Aditya Milan Inamdar* on **April 18, 2025**  
+   - Completed on: April 18, 2025  
    - Grade Achieved: **98.37%**  
-   - Duration: ~5 weeks at 5 hrs/week  
+
+📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/D7Z3LNL091A0)
 
 ---
- 
 
