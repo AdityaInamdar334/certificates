@@ -71,7 +71,7 @@ This specialization gives a solid base in core ML concepts and real-world implem
 Got it! Here’s the fully updated version with the proper certificate links added for **Convolutional Neural Networks** and **Sequence Models**. Left couple small grammar issues as per your style 😄:
 
 ---
-Absolutely! Here's your **Deep Learning Specialization** written in the **same format** as your other certification sections (with a couple small grammar slips thrown in too, as you like 😄):
+
 
 ---
 
