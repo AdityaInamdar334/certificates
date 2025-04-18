@@ -92,11 +92,11 @@ Topics included:
 - Recurrent neural networks, GRUs, LSTMs, and sequence models  
 
 **Courses Included:**  
-1. **[Neural Networks and Deep Learning]
-2. **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
-3. **[Structuring Machine Learning Projects] 
-4. **[Convolutional Neural Networks]
-5. **[Sequence Models]
+1. [Neural Networks and Deep Learning]
+2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
+3. [Structuring Machine Learning Projects] 
+4. [Convolutional Neural Networks]
+5. [Sequence Models]
 
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/D7Z3LNL091A0)
 
